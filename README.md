@@ -62,4 +62,8 @@ Este repositório é uma **Prova de Conceito (PoC)**. Por questões de confidenc
 1. **Fetch:** O script acessa a Google Sheets API 
 2. **Transform:** Pandas processa e agrupa os dados 
 3. **Report:** FPDF2 gera o relatório 
-4. **Deploy:** GitHub Actions executa o pipeline via Cron Job 
+4. **Deploy:** GitHub Actions executa o pipeline via Cron Job
+
+## PDF Gerado / Generated PDF
+
+![Relatório](docs/pdf_relatorio.png)
