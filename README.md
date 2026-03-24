@@ -66,4 +66,4 @@ Este repositório é uma **Prova de Conceito (PoC)**. Por questões de confidenc
 
 ## PDF Gerado / Generated PDF
 
-![Relatório](docs/pdf_relatorio.png)
+![Relatório](docs/pdf_report.png)
